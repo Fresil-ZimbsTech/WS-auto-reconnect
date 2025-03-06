@@ -108,6 +108,7 @@ const ChatRoom = () => {
               ))}
             </div>
           </div>
+          <div style={styles.inputContainer}>
           <input
             type="text"
             value={inputMessage}
@@ -118,23 +119,151 @@ const ChatRoom = () => {
           <button onClick={sendMessage} style={styles.button} disabled={!isConnected}>
             Send
           </button>
+          </div>
+          {/* <input
+            type="text"
+            value={inputMessage}
+            onChange={(e) => setInputMessage(e.target.value)}
+            placeholder="Type a message..."
+            style={styles.input}
+          />
+          <button onClick={sendMessage} style={styles.button} disabled={!isConnected}>
+            Send
+          </button> */}
         </div>
       )}
     </div>
   );
 };
 
+// const styles = {
+//   container: { textAlign: "center", padding: "20px", fontFamily: "Arial, sans-serif" },
+//   status: { fontSize: "18px", fontWeight: "bold" },
+//   connected: { color: "green" },
+//   disconnected: { color: "red" },
+//   chatContainer: { width: "50%", margin: "auto", border: "1px solid #ccc", borderRadius: "5px", padding: "10px", minHeight: "200px", overflowY: "auto", background: "#f9f9f9" },
+//   messages: { textAlign: "left" },
+//   message: { background: "#e1f5fe", padding: "8px", borderRadius: "5px", margin: "5px 0" },
+//   notify: { color: "gray", fontStyle: "italic" },
+//   input: { width: "40%", padding: "8px", margin: "10px 0", borderRadius: "5px", border: "1px solid #ccc" },
+//   button: { padding: "10px 15px", fontSize: "16px", cursor: "pointer", backgroundColor: "#007BFF", color: "#fff", border: "none", borderRadius: "5px" }
+// };
 const styles = {
-  container: { textAlign: "center", padding: "20px", fontFamily: "Arial, sans-serif" },
-  status: { fontSize: "18px", fontWeight: "bold" },
-  connected: { color: "green" },
-  disconnected: { color: "red" },
-  chatContainer: { width: "50%", margin: "auto", border: "1px solid #ccc", borderRadius: "5px", padding: "10px", minHeight: "200px", overflowY: "auto", background: "#f9f9f9" },
-  messages: { textAlign: "left" },
-  message: { background: "#e1f5fe", padding: "8px", borderRadius: "5px", margin: "5px 0" },
-  notify: { color: "gray", fontStyle: "italic" },
-  input: { width: "40%", padding: "8px", margin: "10px 0", borderRadius: "5px", border: "1px solid #ccc" },
-  button: { padding: "10px 15px", fontSize: "16px", cursor: "pointer", backgroundColor: "#007BFF", color: "#fff", border: "none", borderRadius: "5px" }
+  inputContainer: {
+    display: "flex",
+    width: "100%", // Ensures it matches chatContainer width
+    gap: "10px", // Adds space between input and button
+    marginTop: "10px",
+  },
+  // container: {
+  //   display: "flex",
+  //   flexDirection: "column",
+  //   justifyContent: "center",
+  //   alignItems: "center",
+  //   height: "100vh",
+  //   backgroundColor: "#1e1e2e",
+  //   color: "#ffffff",
+  //   fontFamily: "Arial, sans-serif",
+  // },
+
+container: {
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "center", // Centers vertically
+    alignItems: "center", // Centers horizontally
+    height: "100vh", // Full viewport height
+    width: "100vw", // Full viewport width (ensures no extra margins)
+    backgroundColor: "#1e1e2e",
+    color: "#ffffff",
+    fontFamily: "Arial, sans-serif",
+    margin: 0, // Removes default margin
+    padding: 0, // Removes default padding
+    overflow: "hidden", // Prevents scrollbars if unnecessary
+  },
+
+  status: {
+    fontSize: "18px",
+    fontWeight: "bold",
+    marginBottom: "10px",
+  },
+  connected: { color: "#4CAF50" }, // Green color for connected
+  disconnected: { color: "#FF5252" }, // Red color for disconnected
+  // chatContainer: {
+  //   width: "60%",
+  //   height: "300px",
+  //   display: "flex",
+  //   flexDirection: "column",
+  //   borderRadius: "10px",
+  //   padding: "10px",
+  //   overflowY: "auto",
+  //   backgroundColor: "#282A36",
+  //   border: "2px solid #ff79c6",
+  // },
+
+  chatContainer: {
+    width: "50vw", // Increased width for better visibility
+    height: "60vh", // Increased height for better usability
+    maxWidth: "600px", // Prevents it from becoming too large
+    maxHeight: "500px", // Avoids taking too much space on large screens
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "space-between",
+    borderRadius: "12px",
+    padding: "15px",
+    overflowY: "auto",
+    backgroundColor: "#282A36",
+    border: "3px solid #ff79c6",
+    boxShadow: "0px 4px 10px rgba(255, 121, 198, 0.5)", // Glow effect
+  },
+
+
+  messages: {
+    flex: 1,
+    overflowY: "auto",
+    padding: "10px",
+  },
+  message: {
+    background: "#8be9fd",
+    color: "#282A36",
+    padding: "10px",
+    borderRadius: "5px",
+    margin: "5px 0",
+    maxWidth: "80%",
+    alignSelf: "flex-start",
+  },
+  notify: {
+    color: "#f1fa8c",
+    fontStyle: "italic",
+    textAlign: "center",
+  },
+  input: {
+    flex: 1,
+    width: "50%",
+    padding: "12px",
+    marginTop: "10px",
+    borderRadius: "8px",
+    border: "none",
+    backgroundColor: "#44475A",
+    color: "#FFF",
+    fontSize: "16px",
+    textAlign: "center",
+  },
+  button: {
+    padding: "12px 20px",
+    fontSize: "16px",
+    cursor: "pointer",
+    backgroundColor: "#FF79C6",
+    color: "#1e1e2e",
+    border: "none",
+    borderRadius: "8px",
+    marginTop: "10px",
+    transition: "0.3s",
+  },
+  buttonHover: {
+    backgroundColor: "#BD93F9",
+  },
 };
+
+
 
 export default ChatRoom;
