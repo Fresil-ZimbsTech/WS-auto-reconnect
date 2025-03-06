@@ -1,0 +1,67 @@
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.staticwebassets.endpoints.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.exe
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.deps.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.runtimeconfig.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.dll
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.pdb
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.csproj.AssemblyReference.cache
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.AssemblyInfoInputs.cache
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.AssemblyInfo.cs
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.sourcelink.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\scopedcss\bundle\WebSocketApp.styles.css
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.WebSocketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.WebSocketApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebSocketApp.props
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebSocketApp.props
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebSocketApp.props
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocke.6ED5DBD8.Up2Date
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.dll
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\refint\WebSocketApp.dll
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.pdb
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.genruntimeconfig.cache
+C:\Users\Diya Patel\Desktop\Socket\WebSocketApp\WebSocketApp\obj\Debug\net8.0\ref\WebSocketApp.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\appsettings.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.staticwebassets.endpoints.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.exe
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.deps.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.runtimeconfig.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\WebSocketApp.pdb
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.csproj.AssemblyReference.cache
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.AssemblyInfoInputs.cache
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.AssemblyInfo.cs
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\scopedcss\bundle\WebSocketApp.styles.css
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.WebSocketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.WebSocketApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebSocketApp.props
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebSocketApp.props
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebSocketApp.props
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocke.6ED5DBD8.Up2Date
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\refint\WebSocketApp.dll
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.pdb
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\WebSocketApp.genruntimeconfig.cache
+C:\Users\techn\Desktop\WS-auto-reconnect\WebSocketApp\WebSocketApp\obj\Debug\net8.0\ref\WebSocketApp.dll
